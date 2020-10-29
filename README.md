@@ -12,6 +12,8 @@ Hello, and welcome to my professional coding portfolio
 
 ## Statistical Analysis:
 
+[Mean, standard deviation - creatinine vs sex and smoking habits](Heart_Failure.md)
+
 ## Contact me:
 You can reach me via email at
 [cr708761@dal.ca](mailto:cr708761@dal.ca)
