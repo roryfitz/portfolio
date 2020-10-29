@@ -45,10 +45,3 @@ plt.show()
     
 ![png](Alzheimer%27s%20MRI_files/Alzheimer%27s%20MRI_4_0.png)
     
-
-
-
-
-```python
-
-```
