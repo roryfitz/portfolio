@@ -10,5 +10,6 @@ Hello, and welcome to my professional coding portfolio
 
 ## Statistical Analysis:
 
-Questions? Email me at
+## Contact me:
+You can reach me via email at
 [cr708761@dal.ca](mailto:cr708761@dal.ca)
