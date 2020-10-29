@@ -1,9 +1,4 @@
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
-
+# Alzheimer's MRI Study
 
 ```python
 # read in the data
@@ -18,7 +13,7 @@ dict = {'F':'Female', 'M':'Male'}
 long['M/F'] = long['M/F'].replace(dict)
 ```
 
-### Compare Age to Dementia Status
+### Comparison of Age to Dementia Status and Brain Volume
 
 
 ```python
