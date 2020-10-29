@@ -1,4 +1,4 @@
-# Portfolio - Caroline Damus
+# Caroline Damus
 
 Hello, and welcome to my professional coding portfolio
 
