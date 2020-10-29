@@ -2,5 +2,5 @@
 
 Hello, and welcome to my professional coding portfolio
 
-Questions? email me at
+Questions? Email me at
 [cr708761@dal.ca](mailto:cr708761@dal.ca)
