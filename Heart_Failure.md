@@ -24,24 +24,6 @@ hf.groupby(['sex', 'smoking'])[['creatinine_phosphokinase']].mean().rename(colum
 
     Table 1: Mean Creatinine for Sex and Smoking Conditions
 
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -88,24 +70,6 @@ hf.groupby(['sex', 'smoking'])[['creatinine_phosphokinase']].std().rename(column
 
     Table 2: Standard Deviations for Table 1 Means
 
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
