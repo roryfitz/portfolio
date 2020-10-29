@@ -22,7 +22,7 @@ print('Table 1: Mean Creatinine for Sex and Smoking Conditions')
 hf.groupby(['sex', 'smoking'])[['creatinine_phosphokinase']].mean().rename(columns={'creatinine_phosphokinase':'mean creatinine'})
 ```
 
-    Table 1: Mean Creatinine for Sex and Smoking Conditions
+Table 1: Mean Creatinine for Sex and Smoking Conditions
 
 <table border="1" class="dataframe">
   <thead>
@@ -68,7 +68,7 @@ print('Table 2: Standard Deviations for Table 1 Means')
 hf.groupby(['sex', 'smoking'])[['creatinine_phosphokinase']].std().rename(columns={'creatinine_phosphokinase':'standard deviation'})
 ```
 
-    Table 2: Standard Deviations for Table 1 Means
+Table 2: Standard Deviations for Table 1 Means
 
 <table border="1" class="dataframe">
   <thead>
