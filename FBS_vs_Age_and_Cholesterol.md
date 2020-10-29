@@ -1,11 +1,6 @@
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
-
 # Heart Disease
 Here I produced 2 plots, one comparing fasting blood sugar to age, and the other comparing fasting blood sugar to serum cholesterol.
+
 Both plots also indicate sex of the participants.
 
 
