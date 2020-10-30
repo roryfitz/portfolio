@@ -138,4 +138,4 @@ print('t = ' + str(t_statistic) + ', df = ' + str(df) + ', cv = ' + str(critval)
 
 t = 0.08350399261646918, df = 1042, cv = 1043.6448536269515, p = 2.0
 
-
+note: code written in python
