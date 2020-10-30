@@ -1,13 +1,13 @@
 # Heart Failure
 Here I compared the creatinine phoshpokinase levels in female and male smokers and nonsmokers
 
-```
+```python
 # read in the data
 hf = pd.read_csv('heart_failure.csv')
 ```
 
 I converted the binary and boolean values of the sex and smoking conditions to strings in order to make the resulting table more readable
-```
+```python
 dict1 = {0:'female', 1:'male'}
 hf['sex'] = hf['sex'].replace(dict1)
 dict2 = {0:'no', 1:'yes'}
@@ -17,7 +17,7 @@ hf['smoking'] = hf['smoking'].replace(dict2)
 ### Determining effect of sex and smoking on creatinine phosphokinase levels
 
 I created a table to show the mean creatinine levels for four conditions: female non-smoker, female smoker, male non-smoker, and male smoker
-```
+```python
 print('Table 1: Mean Creatinine for Sex and Smoking Conditions')
 hf.groupby(['sex', 'smoking'])[['creatinine_phosphokinase']].mean().rename(columns={'creatinine_phosphokinase':'mean creatinine'})
 ```
@@ -62,7 +62,7 @@ Table 1: Mean Creatinine for Sex and Smoking Conditions
 
 
 I then created a second table that displayed the standard deviations that corresponded with the means from the first table
-```
+```python
 print('Table 2: Standard Deviations for Table 1 Means')
 hf.groupby(['sex', 'smoking'])[['creatinine_phosphokinase']].std().rename(columns={'creatinine_phosphokinase':'standard deviation'})
 ```
