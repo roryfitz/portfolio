@@ -2,13 +2,15 @@
 
 ```python
 # read in the data
+
 long = pd.read_csv('oasis_longitudinal.csv')
 cross = pd.read_csv('oasis_cross-sectional.csv')
 ```
-
+I converted the values of sex from M,F to Male,Female so the resulting plots would be more understandable
 
 ```python
 #Convert M/F to Male,Female
+
 dict = {'F':'Female', 'M':'Male'}
 long['M/F'] = long['M/F'].replace(dict)
 ```
