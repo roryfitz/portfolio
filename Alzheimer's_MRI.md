@@ -37,5 +37,5 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src="Dementia_swarm_plots.png" width="800" />
+<img src="Dementia_swarm_plots.png" width="600" />
 
