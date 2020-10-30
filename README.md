@@ -8,8 +8,6 @@ Hello, and welcome to my professional coding portfolio
 
 [Violin plot - fasting blood sugar vs age, cholesterol](FBS_vs_Age_and_Cholesterol.md)
 
-[CDF - reaction time data](CDF.md)
-
 ## Statistical Analysis:
 
 [Mean, standard deviation - creatinine vs sex, smoking habits](Heart_Failure.md)
