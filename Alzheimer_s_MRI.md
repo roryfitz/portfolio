@@ -43,7 +43,7 @@ plt.show()
 
 
     
-![png](Alzheimer_s_MRI_files/Alzheimer_s_MRI_4_0.png)
+![](Alzheimer_s_MRI_files/Alzheimer_s_MRI_4_0.png)
     
 
 
