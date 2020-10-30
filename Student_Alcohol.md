@@ -1,4 +1,5 @@
 # Student Alcohol Consumption: Math vs Portugese
+Here I analyzed the difference in average alcohol consumption between math and portugese students
 
 ```python
 # read in the data
@@ -7,8 +8,7 @@ math = pd.read_csv('math_student_alcohol.csv')
 por = pd.read_csv('por_student_alcohol.csv')
 ```
 
-### Perform a t test to determine if there is a significant difference in student alcohol consumption between math and portugese students
-
+I was only interested in total alcohol consumption for this test, so I combined the weekday ('Dalc') and weekend ('Walc') consumption values for both groups
 
 ```python
 # combine weekday and weekend consumption
@@ -17,6 +17,7 @@ math['cons'] = math['Dalc'] + math['Walc']
 por['cons'] = por['Dalc'] + por['Walc']
 ```
 
+### Perform a t test to determine if there is a significant difference in student alcohol consumption between math and portugese students
 
 ```python
 # calculate means
