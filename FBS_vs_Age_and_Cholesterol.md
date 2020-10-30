@@ -56,8 +56,6 @@ fig2.set_xticklabels(labels2)
 plt.tight_layout()
 plt.show()
 ```
-
-![png](FBS%20vs%20age%20and%20cholesterol_files/FBS%20vs%20age%20and%20cholesterol_6_0.png)
     
-
+<img src="FBS_violin_plots.png" />
 
