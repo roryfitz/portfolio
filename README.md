@@ -1,4 +1,4 @@
-# Caroline Damus
+# Caroline Fitz
 
 Hello, and welcome to my professional coding portfolio
 
