@@ -130,7 +130,7 @@ print('p value = ' + str(pval))
 
 p value = 2.0
 
-
+At the end, I printed all important values that I would need for my data analysis
 
 ```python
 print('t = ' + str(t_statistic) + ', df = ' + str(df) + ', cv = ' + str(critval) + ', p = ' + str(pval))
