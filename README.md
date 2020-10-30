@@ -2,7 +2,7 @@
 
 Hello, and welcome to my professional coding portfolio
 
-## Visualizing Data:
+## Data Visualization:
 
 [Swarm plot - dementia vs age, brain volume](Alzheimer's_MRI.md)
 
