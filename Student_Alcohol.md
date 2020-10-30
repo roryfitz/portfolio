@@ -17,7 +17,7 @@ math['cons'] = math['Dalc'] + math['Walc']
 por['cons'] = por['Dalc'] + por['Walc']
 ```
 
-### Perform a t test to determine if there is a significant difference in student alcohol consumption between math and portugese students
+### I performed a t test to determine if there is a significant difference in student alcohol consumption between math and portugese students
 
 ```python
 # calculate means
