@@ -10,7 +10,7 @@ Both plots also indicate sex of the participants.
 heart = pd.read_csv('heart.csv')
 ```
 
-In order to have the legends read "Male" and "Female" rather than "0" and "1", I decided to convert the values within the dataset rather than edit the legends themselves. This would ensure that upon further data exploration/visualization I would not run into the same issue.
+In order to have the legends read "Male" and "Female" rather than "0" and "1", I converted the values within the dataset rather than edit the legends themselves. This would ensure that upon further data exploration/visualization I would not run into the same issue.
 
 
 ```python
