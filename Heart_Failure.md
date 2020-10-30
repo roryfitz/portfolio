@@ -58,7 +58,6 @@ Table 1: Mean Creatinine for Sex and Smoking Conditions
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -104,6 +103,5 @@ Table 2: Standard Deviations for Table 1 Means
     </tr>
   </tbody>
 </table>
-</div>
 
 
