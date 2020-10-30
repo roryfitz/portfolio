@@ -1,12 +1,4 @@
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import seaborn as sns
-import math as mat
-from scipy.stats import norm
-```
-
+# Student Alcohol Consumption: Math vs Portugese
 
 ```python
 # read in the data
@@ -15,7 +7,7 @@ math = pd.read_csv('math_student_alcohol.csv')
 por = pd.read_csv('por_student_alcohol.csv')
 ```
 
-Perform a t test to determine if there is a significant difference in student alcohol consumption between math and portugese students
+### Perform a t test to determine if there is a significant difference in student alcohol consumption between math and portugese students
 
 
 ```python
@@ -35,7 +27,7 @@ por_avg = por['cons'].mean()
 print('math average = ' + str(math_avg) + ', portugese average = ' + str(por_avg))
 ```
 
-    math average = 3.7721518987341773, portugese average = 3.782742681047766
+math average = 3.7721518987341773, portugese average = 3.782742681047766
 
 
 
@@ -48,7 +40,7 @@ por_std = por['cons'].std()
 print('math standard dev = ' + str(math_std) + ', portugese standard dev = ' + str(por_std))
 ```
 
-    math standard dev = 1.9843893758892996, portugese standard dev = 1.9924110332337173
+math standard dev = 1.9843893758892996, portugese standard dev = 1.9924110332337173
 
 
 
@@ -61,7 +53,7 @@ n_por = len(por['cons'])
 print('math n value = ' + str(n_math) + ', portugese n value = ' + str(n_por))
 ```
 
-    math n value = 395, portugese n value = 649
+math n value = 395, portugese n value = 649
 
 
 
@@ -74,7 +66,7 @@ por_se = por_std/mat.sqrt(n_por)
 print('math standard err = ' + str(math_se) + ', portugese standard err = ' + str(por_se))
 ```
 
-    math standard err = 0.09984546534383723, portugese standard err = 0.0782089741948411
+math standard err = 0.09984546534383723, portugese standard err = 0.0782089741948411
 
 
 
@@ -86,7 +78,7 @@ sed = mat.sqrt(math_se**2 + por_se**2)
 print('standard error between the samples = ' + str(sed))
 ```
 
-    standard error between the samples = 0.12682965187343503
+standard error between the samples = 0.12682965187343503
 
 
 
@@ -98,7 +90,7 @@ t_statistic = (por_avg - math_avg) / sed
 print('t statistic = ' + str(t_statistic))
 ```
 
-    t statistic = 0.08350399261646918
+t statistic = 0.08350399261646918
 
 
 
@@ -110,7 +102,7 @@ df = n_math + n_por - 2
 print('degrees of freedom = ' + str(df))
 ```
 
-    degrees of freedom = 1042
+degrees of freedom = 1042
 
 
 
@@ -123,7 +115,7 @@ critval = norm.ppf(1.0 - alpha, df)
 print('critical value = ' + str(critval))
 ```
 
-    critical value = 1043.6448536269515
+critical value = 1043.6448536269515
 
 
 
@@ -135,7 +127,7 @@ pval = (1 - norm.cdf(abs(t_statistic), df)) * 2
 print('p value = ' + str(pval))
 ```
 
-    p value = 2.0
+p value = 2.0
 
 
 
@@ -143,5 +135,6 @@ print('p value = ' + str(pval))
 print('t = ' + str(t_statistic) + ', df = ' + str(df) + ', cv = ' + str(critval) + ', p = ' + str(pval))
 ```
 
-    t = 0.08350399261646918, df = 1042, cv = 1043.6448536269515, p = 2.0
+t = 0.08350399261646918, df = 1042, cv = 1043.6448536269515, p = 2.0
+
 
