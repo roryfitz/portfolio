@@ -57,5 +57,5 @@ plt.tight_layout()
 plt.show()
 ```
     
-<img src="FBS_violin_plots.png" />
+<img src="FBS_violin_plots.png" width="800" />
 
