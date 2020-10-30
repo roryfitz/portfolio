@@ -57,10 +57,6 @@ plt.tight_layout()
 plt.show()
 ```
 
-
-
-
-    
 ![png](FBS%20vs%20age%20and%20cholesterol_files/FBS%20vs%20age%20and%20cholesterol_6_0.png)
     
 
