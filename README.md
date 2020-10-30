@@ -14,6 +14,8 @@ Hello, and welcome to my professional coding portfolio
 
 [Mean, standard deviation - creatinine vs sex, smoking habits](Heart_Failure.md)
 
+[T test - student alcohol consumption](Student_Alcohol.md)
+
 ## Contact me:
 You can reach me via email at
 [cr708761@dal.ca](mailto:cr708761@dal.ca)
