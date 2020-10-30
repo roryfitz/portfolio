@@ -3,7 +3,7 @@
 Hello, and welcome to my professional coding portfolio
 
 ## Data Visualization:
-[Swarm plot - dementia vs age, brain volume](Alzheimer_s_MRI.ipynb)
+[Swarm plot - dementia vs age, brain volume](Alzheimer_s_MRI.md)
 
 [Swarm plot - dementia vs age, brain volume](Alzheimer's_MRI.md) del this one
 
