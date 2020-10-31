@@ -16,7 +16,7 @@ Hello, and welcome to my professional coding portfolio
 
 ## Image Manipulation:
 
-[Image histogram equalization](CT_equalizing.md)
+[Image histogram equalization - CT scan](CT_equalizing.md)
 
 ## Contact me:
 You can reach me via email at
