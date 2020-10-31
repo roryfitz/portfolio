@@ -28,7 +28,7 @@ Here is the original image (left), and the new image (right)
 
 res = np.hstack((orig_grey,new))
 cv2.imwrite('res.png', res)
-plt.imshow(res)
+plt.imshow(res, cmap='gray')
 plt.axis('off')
 ```
 
@@ -39,7 +39,7 @@ plt.axis('off')
 
 
     
-<img src="CT_equalized.png" width="650" />
+<img src="CT_equalized_grey.png" width="650" />
     
 Note: code written in python
 
