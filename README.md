@@ -1,4 +1,4 @@
-# Caroline Fitz
+# Welcome
 
 Hello, and welcome to my professional coding portfolio
 
