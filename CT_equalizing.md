@@ -35,15 +35,11 @@ plt.axis('off')
 
 
 
-    (-0.5, 1543.5, 465.5, -0.5)
-
-
-
 
 
 
     
-![png](CT_equalizing_files/CT_equalizing_4_1.png)
+<img src="CT_equalized.png" width="650" />
     
 
 
