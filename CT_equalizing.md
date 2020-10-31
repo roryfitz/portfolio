@@ -1,4 +1,4 @@
-# Histogram Equalization of a CT scan
+# Histogram Equalization of a CT Scan
 
 ```python
 # read in image and convert to greyscale
