@@ -14,6 +14,10 @@ Hello, and welcome to my professional coding portfolio
 
 [T test - student alcohol consumption](Student_Alcohol.md)
 
+## Image Manipulation:
+
+[Image histogram equalization](CT_equalizing.md)
+
 ## Contact me:
 You can reach me via email at
 [cr708761@dal.ca](mailto:cr708761@dal.ca)
