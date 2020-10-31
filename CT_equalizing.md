@@ -41,5 +41,5 @@ plt.axis('off')
     
 <img src="CT_equalized.png" width="650" />
     
-
+Note: code written in python
 
