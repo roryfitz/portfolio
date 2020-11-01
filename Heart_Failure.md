@@ -1,5 +1,5 @@
 # Heart Failure
-Here I compared the creatinine phoshpokinase levels in female and male smokers and nonsmokers
+Here I compared the creatinine phosphokinase levels in female and male smokers and nonsmokers
 
 ```python
 # read in the data
