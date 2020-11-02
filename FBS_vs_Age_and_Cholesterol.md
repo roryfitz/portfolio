@@ -50,6 +50,6 @@ plt.tight_layout()
 plt.show()
 ```
     
-<img src="FBS_violin_plots.png" width="650" />
+<img src="FBS_violin_plots.png" width="640" />
 
 Note: code written in python
