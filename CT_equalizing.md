@@ -32,7 +32,7 @@ plt.axis('off')
 
 
     
-<img src="CT_equalized_grey.png" width="650" />
+<img src="CT_equalized_grey.png" width="640" />
     
 Note: code written in python
 
