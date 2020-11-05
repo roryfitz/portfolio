@@ -16,7 +16,7 @@ orig_cl = clahe.apply(orig_grey)
 new = cv2.equalizeHist(orig_cl)
 ```
 
-Here is the original image (left), and the new image (right)
+Here is the original image (left), and the new image (right).
 ```python
 # Stack the original image and new image side-by-side
 res = np.hstack((orig_grey,new))
