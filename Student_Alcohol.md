@@ -1,5 +1,5 @@
 # Student Alcohol Consumption: Math vs Portugese
-Here I analyzed the difference in average alcohol consumption between math and portugese students
+#### Here I analyzed the difference in average alcohol consumption between math and portugese students
 
 ```python
 # read in the data
