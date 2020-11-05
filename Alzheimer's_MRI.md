@@ -1,12 +1,12 @@
 # Alzheimer's MRI Study
-Here I identified how dementia diagnoses correlate with age and brain volume
+Here I identified how dementia diagnoses correlate with age and brain volume.
 
 ```python
 # read in the data
 long = pd.read_csv('oasis_longitudinal.csv')
 cross = pd.read_csv('oasis_cross-sectional.csv')
 ```
-I converted the values of sex from M,F to Male,Female so the resulting plots would be more understandable
+I converted the values of sex from M,F to Male,Female so the resulting plots would be more understandable.
 
 ```python
 # Convert M/F to Male,Female
