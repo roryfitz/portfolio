@@ -1,4 +1,4 @@
-# Alzheimer's MRI Study: 
+# Alzheimer's MRI Study
 Here I identified how dementia diagnoses correlate with age and brain volume
 
 ```python
