@@ -1,4 +1,4 @@
-# Alzheimer's MRI Study
+# Comparison of Age to Dementia Status and Brain Volume
 Here I identified how dementia diagnoses correlate with age and brain volume
 
 ```python
@@ -14,7 +14,7 @@ dict = {'F':'Female', 'M':'Male'}
 long['M/F'] = long['M/F'].replace(dict)
 ```
 
-### Comparison of Age to Dementia Status and Brain Volume
+I then created two plots, the first comparing dementia status to age, and the second comparing dementia status to brain volume. Both plots also indicated the sex of the participants. 
 
 
 ```python
