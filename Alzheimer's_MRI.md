@@ -1,5 +1,4 @@
 # Alzheimer's MRI Study: 
-### Comparison of Age to Dementia Status and Brain Volume
 Here I identified how dementia diagnoses correlate with age and brain volume
 
 ```python
