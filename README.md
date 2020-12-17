@@ -20,7 +20,7 @@ Hello, and welcome to my professional coding portfolio! My name is Rory and I am
 
 [Image masking](Image_masking.md)
 
-[fMRI Statistical Mapping]
+[fMRI Statistical Mapping](fMRI_stat_map.md)
 
 ## Contact me:
 You can reach me via email at
