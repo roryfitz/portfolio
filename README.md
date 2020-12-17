@@ -18,9 +18,9 @@ Hello, and welcome to my professional coding portfolio! My name is Rory and I am
 
 [Image histogram equalization - CT scan](CT_equalizing.md)
 
-[Image masking](Image_masking.md)
+[Image masking - MRI](Image_masking.md)
 
-[fMRI Statistical Mapping](fMRI_stat_map.md)
+[Statistical Mapping - fMRI](fMRI_stat_map.md)
 
 ## Contact me:
 You can reach me via email at
