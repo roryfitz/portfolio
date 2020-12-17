@@ -7,7 +7,7 @@ I started by reading in a 3D volume of 160 DICOM files
 vol = imageio.volread('5.T1_GRE_3D_AXIAL')
 ```
 
-    Reading DICOM (examining files): 1/161 files (0.6%)161/161 files (100.0%)
+    Reading DICOM (examining files): 1/161 files (0.6%)...............161/161 files (100.0%)
       Found 1 correct series.
     Reading DICOM (loading data): 160/160  (100.0%)
 
