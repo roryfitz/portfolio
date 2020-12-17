@@ -18,6 +18,10 @@ Hello, and welcome to my professional coding portfolio! My name is Rory and I am
 
 [Image histogram equalization - CT scan](CT_equalizing.md)
 
+[Image masking]
+
+[fMRI Statistical Mapping]
+
 ## Contact me:
 You can reach me via email at
 [cr708761@dal.ca](mailto:cr708761@dal.ca)
