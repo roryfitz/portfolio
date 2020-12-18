@@ -36,3 +36,5 @@ for contr in contr_labels:
 plt.show()
 
 ```
+
+Note: data courtesy of Dr. Nathan Crowder, Department of Psychology & Neuroscience, Dalhousie University.
