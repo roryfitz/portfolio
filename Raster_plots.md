@@ -1,4 +1,8 @@
-I started by reading in the data from 3 mouse primary visual cortex neurons, that were tested for their response to visual stimuli either after either a lack of stimulus (CTRL), or an adaptation stimulus (ADAPT).
+I started by reading in the data from a mouse primary visual cortex neuron, that was tested for its response to visual stimuli either after either a lack of stimulus (CTRL), or an adaptation stimulus (ADAPT).
+
+```python
+df = pd.read_csv('crowder_1_neuron.csv')
+```
 
 
 
