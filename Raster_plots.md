@@ -1,3 +1,7 @@
+I started by reading in the data from 3 mouse primary visual cortex neurons, that were tested for their response to visual stimuli either after either a lack of stimulus (CTRL), or an adaptation stimulus (ADAPT).
+
+
+
 ```python
 
 fig = plt.figure(figsize=[12,18])
