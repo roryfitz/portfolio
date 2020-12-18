@@ -10,6 +10,8 @@ Hello, and welcome to my professional coding portfolio! My name is Rory and I am
 
 [Raster plot - neuronal response to visual stimuli](Raster_plots.md)
 
+[Heat map - neuronal response to visual stimuli](Heat_map.md)
+
 ## Statistical Analysis:
 
 [Mean, standard deviation - creatinine vs sex, smoking habits](Heart_Failure.md)
