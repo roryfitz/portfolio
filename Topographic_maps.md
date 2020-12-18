@@ -54,7 +54,7 @@ plt.show()
 ```
 ![png](Project_2_files/Project_2_34_0.png)
 
-I then plotted a topographic map of each condition's ERP response at 0.500 seconds
+I then plotted a topographic map of each condition's ERP response at 0.500 seconds (averaged over 0.200 seconds)
 
 ```python
 for condition in gavg:
