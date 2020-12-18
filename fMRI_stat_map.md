@@ -87,6 +87,6 @@ plt.show()
     
 <img src="Z_map_overlay.png" width="640" />
     
-the 6th slice (2nd row, 3rd column) shows area V5 in each hemisphere. These are the blobs of red nearer to the back of the head (left side of image) in each hemisphere. 
+The 6th slice (2nd row, 3rd column) shows area V5 in each hemisphere. These are the blobs of red nearer to the back of the head (left side of image) in each hemisphere. 
 
 Note: this code was written in python
