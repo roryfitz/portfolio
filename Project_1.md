@@ -23,7 +23,7 @@ all_data = all_data.dropna(how='any')
 all_data = all_data[all_data.block != 'practice']
 ```
 
-I then added the condition information to the dataframe.
+Next, I added the condition information to the dataframe.
 
 ```python
 # first we create a set of conditions — the different possible mappings
@@ -209,7 +209,7 @@ all_data.head()
 </table>
 </div> 
 
-I then calculated the mean reaction times for each condition
+I calculated the mean reaction times for each condition.
 ```python
 #Mean (RT):
 
