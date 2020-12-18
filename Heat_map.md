@@ -29,3 +29,5 @@ for neur in neuron_labels:
 plt.show()
 ```
 <img src="Heat-map.png" width="640" />
+
+Note: code written in python; data courtesy of Dr. Nathan Crowder, Department of Psychology & Neuroscience, Dalhousie University.
