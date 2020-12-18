@@ -105,7 +105,7 @@ all_data.groupby(['flankers', 'simon'])[['rt']].mean().rename(columns={'rt': 'me
     </tr>
   </tbody>
 </table>
-</div>
+
 
 I then calculated the standard deviations for each mean.
 
