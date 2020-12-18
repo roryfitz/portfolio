@@ -1,3 +1,5 @@
+```python
+
 fig = plt.figure(figsize=[12,18])
 
 subplot_counter = 1 # used to track subplots
@@ -33,3 +35,4 @@ for contr in contr_labels:
         
 plt.show()
 
+```
