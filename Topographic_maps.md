@@ -1,3 +1,5 @@
+### Use of Topographic Maps and Waveform Plots to Visualize Temporospatial ERP Data
+
 I started by creating a list of subject IDs from the data files.
 
 ```python
