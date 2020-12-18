@@ -1,3 +1,5 @@
+# Raster Plots for Visualization of Neuron Temporal Response Data
+
 I started by reading in the data from a mouse primary visual cortex neuron, that was tested for its response to visual stimuli either after either a lack of stimulus (CTRL), or an adaptation stimulus (ADAPT).
 
 ```python
