@@ -28,3 +28,4 @@ for neur in neuron_labels:
 
 plt.show()
 ```
+<img src="Heat-map.png" width="640" />
