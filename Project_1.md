@@ -219,21 +219,6 @@ all_data.groupby(['flankers', 'simon'])[['rt']].mean().rename(columns={'rt': 'me
 
     Table 1: Mean RTs for Each Condition
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -281,20 +266,7 @@ all_data.groupby(['flankers', 'simon'])[['rt']].std().rename(columns={'rt':'stan
 
     Table 2: Standard Deviations for Each Condition
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -343,20 +315,6 @@ print('Table 3: Accuracy for Each Condition')
 
     Table 3: Accuracy for Each Condition
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
