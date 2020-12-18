@@ -64,35 +64,12 @@ for condition in gavg:
     plt.show()
 ```
 
-
-
-
-    
 <img src="Topo_1.png" width="640" />
-    
 
-
-
-
-
-
-    
 <img src="Topo_2.png" width="640" />
     
-
-
-
-
-
-
-    
 <img src="Topo_3.png" width="640" />
-    
-
-
-
-
-
-
-    
+ 
 <img src="Topo_4.png" width="640" />
+
+Note: code written in python
