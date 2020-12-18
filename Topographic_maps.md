@@ -23,11 +23,12 @@ conditions  = [x.comment for x in evoked[subjects[0]]]
 
 conditions
 ```
-   ['Quiet/Control/Correct',
+ ```
+    ['Quiet/Control/Correct',
      'Quiet/Violation/Correct',
      'Noise/Control/Correct',
      'Noise/Violation/Correct']
-
+```
 I then calculated the grand averages for each condition.
 ```python
 gavg = {}
