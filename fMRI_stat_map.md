@@ -33,7 +33,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![png](Assignment_5_files/Assignment_5_84_0.png)
+<img src="seismic_map.png" width="640" />
 
 
 To identify V5 and any other brain area that responds more strongly to moving than stationary stimuli, I set a threshold for the image to only show the Z scores above the statistical threshold of *p < .0001*.
@@ -59,7 +59,7 @@ plt.tight_layout()
 plt.show()
 ```
     
-![png](Assignment_5_files/Assignment_5_90_0.png)
+<img src="Z_map.png" width="640" />
 
 I then overlaid the thresholded *Z* map on a greyscale version of the brain image. 
 
@@ -85,7 +85,7 @@ plt.tight_layout()
 plt.show()
 ```
     
-![png](Assignment_5_files/Assignment_5_96_0.png)
+<img src="z_map_overlay.png" width="640" />
     
 the 6th slice (2nd row, 3rd column) shows area V5 in each hemisphere. These are the blobs of red nearer to the back of the head (left side of image) in each hemisphere. 
 
