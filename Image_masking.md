@@ -1,26 +1,21 @@
 ## Masking an Image
 
-I started by reading in a 3D volume of 160 DICOM files
+I started by loading the DICOM image using imageio.imread
 
 
 ```python
-vol = imageio.volread('5.T1_GRE_3D_AXIAL')
+brain_img = imageio.imread('Anat001.20040930.142737.2.MPRAGE_T1_SAGITTAL.0080.dcm')
 ```
 
-    Reading DICOM (examining files): 1/161 files (0.6%)...............161/161 files (100.0%)
-      Found 1 correct series.
-    Reading DICOM (loading data): 160/160  (100.0%)
-
-
-I selected a slice of the volume from which to generate a mask.
 
 ```python
-plt.imshow(ndi.rotate(vol[:, :, 96], 180), cmap='gray')
+plt.imshow(brain_img, cmap='gray')
 plt.axis('off')
 plt.show()
 ```
+
     
-<img src="cell 51.png" width="640" />
+<img src="cell 23.png" width="640" />
     
 
 I then generated a histogram to identify the intensity ranges of the various tissue types present in the image (e.g. CSF, grey matter, white matter)
