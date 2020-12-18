@@ -3,9 +3,7 @@ I started by reading in the data from a mouse primary visual cortex neuron, that
 ```python
 df = pd.read_csv('crowder_1_neuron.csv')
 ```
-
-
-
+I then created raster plots for each condition
 ```python
 
 fig = plt.figure(figsize=[12,18])
