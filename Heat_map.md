@@ -1,3 +1,4 @@
+```python
 fig = plt.figure(figsize=[15,15])
 subplot_counter = 1 # used to track subplots
 
@@ -26,3 +27,4 @@ for neur in neuron_labels:
         subplot_counter += 1
 
 plt.show()
+```
