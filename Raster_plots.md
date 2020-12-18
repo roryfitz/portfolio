@@ -46,6 +46,6 @@ plt.show()
 ```
 <img src="Raster-plots.png" width="640" />
 
-These plots showed a trend of increasing response times with increasing sstimulus contrast, as well as a decreased response during the stimullus phase of the ADAPT condition, showing that the adaptation period had a negative effect on how strongly the neuron responded to the stimulus.
+These plots showed a trend of increasing response times with increasing stimulus contrast, as well as a decreased response during the stimulus phase of the ADAPT condition, showing that the adaptation period had a negative effect on how strongly the neuron responded to the stimulus.
 
 Note: code written in python; data courtesy of Dr. Nathan Crowder, Department of Psychology & Neuroscience, Dalhousie University.
