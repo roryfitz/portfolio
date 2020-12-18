@@ -40,5 +40,6 @@ for contr in contr_labels:
 plt.show()
 
 ```
+<img src="Raster-plots.png" width="640" />
 
 Note: code written in python; data courtesy of Dr. Nathan Crowder, Department of Psychology & Neuroscience, Dalhousie University.
