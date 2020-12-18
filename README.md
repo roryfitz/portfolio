@@ -1,9 +1,7 @@
 # Welcome 
 
 Hello, and welcome to my professional coding portfolio! My name is Rory and I am a medical sciences student at Dalhousie University. I am an aspiring physician researcher with an interest in studying neurodegenerative diseases. I am a beginner coder learning the language Python. Here I have compiled some samples of my work to demonstrate my coding abilities. Enjoy! 
-<img src="463C1491-ECDB-4BA1-86EF-61F9DCD8032A_1_105_c.jpeg" width="200" {
-  float: right;
-}/>
+<img src="463C1491-ECDB-4BA1-86EF-61F9DCD8032A_1_105_c.jpeg" width="200" />
 
 ## Data Visualization:
 
