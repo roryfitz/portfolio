@@ -1,4 +1,4 @@
-## Statistical Mapping of Experimental fMRI Data
+### Statistical Mapping of Experimental fMRI Data
 
 I started by loading in a statistical Z map, the results of an analysis of a single fMRI scan from an experiment designed to activate area V5 of the visual cortex in response to an alternating pattern of moving and stationary visual stimuli.
 
