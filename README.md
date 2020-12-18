@@ -8,6 +8,8 @@ Hello, and welcome to my professional coding portfolio! My name is Rory and I am
 
 [Violin plot - fasting blood sugar vs age, cholesterol](FBS_vs_Age_and_Cholesterol.md)
 
+[Raster plot - neuronal response to visual stimuli](Raster_plots.md)
+
 ## Statistical Analysis:
 
 [Mean, standard deviation - creatinine vs sex, smoking habits](Heart_Failure.md)
