@@ -54,7 +54,7 @@ Cz_idx = gavg['Quiet/Control/Correct'].ch_names.index('Cz')
 mne.viz.plot_compare_evokeds(gavg, picks=Cz_idx)
 plt.show()
 ```
-![png](Project_2_files/Project_2_34_0.png)
+<img src="Waveform_plot.png" width="640" />
 
 I then plotted a topographic map of each condition's ERP response at 0.500 seconds (averaged over 0.200 seconds)
 
@@ -68,7 +68,7 @@ for condition in gavg:
 
 
     
-![png](Project_2_files/Project_2_40_0.png)
+<img src="Topo_1.png" width="640" />
     
 
 
@@ -77,7 +77,7 @@ for condition in gavg:
 
 
     
-![png](Project_2_files/Project_2_40_1.png)
+<img src="Topo_2.png" width="640" />
     
 
 
@@ -86,7 +86,7 @@ for condition in gavg:
 
 
     
-![png](Project_2_files/Project_2_40_2.png)
+<img src="Topo_3.png" width="640" />
     
 
 
@@ -95,4 +95,4 @@ for condition in gavg:
 
 
     
-![png](Project_2_files/Project_2_40_3.png)
+<img src="Topo_4.png" width="640" />
