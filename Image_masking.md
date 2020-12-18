@@ -91,7 +91,7 @@ plt.show()
 ```
 
     
-![png](Assignment_5_files/Assignment_5_50_0.png)
+<img src="cell 51.png" width="640" />
     
 
 I then generated a histogram to identify the intensity ranges of the various tissue types present in the image (e.g. CSF, grey matter, white matter)
@@ -103,7 +103,7 @@ plt.plot(hist)
 plt.show()
 ```
     
-![png](Assignment_5_files/Assignment_5_54_0.png)
+<img src="cell 55 - hisogram.png" width="640" />
     
 
 
@@ -117,7 +117,7 @@ plt.axis('off')
 plt.show()
 ```
 
-![png](Assignment_5_files/Assignment_5_58_0.png)
+<img src="cell 59 - mask.png" width="640" />
     
 
 
@@ -130,7 +130,7 @@ plt.plot(hist_brain)
 plt.show()
 ```
     
-![png](Assignment_5_files/Assignment_5_62_0.png)
+<img src="cell 63 - mask hist.png" width="640" />
     
 
 This histogram showed one peak just below 150 and another at around 180. The 150 peak corresponds to grey matter and the 180 to white matter.
