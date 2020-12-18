@@ -1,4 +1,4 @@
-# Determining Accuracy of Mean and Standard Deviation Values from Reaction Time Data
+### Determining Accuracy of Mean and Standard Deviation Values from Reaction Time Data
 
 First I read in the data.
 
