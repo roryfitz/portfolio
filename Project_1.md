@@ -153,7 +153,7 @@ all_data.groupby(['flankers', 'simon'])[['rt']].std().rename(columns={'rt':'stan
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 Finally, I calculated the accuracy for each condition.
@@ -201,6 +201,6 @@ print('Table 3: Accuracy for Each Condition')
     </tr>
   </tbody>
 </table>
-</div>
+
 
 Note: code written in python
