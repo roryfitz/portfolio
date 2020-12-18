@@ -8,9 +8,9 @@ Hello, and welcome to my professional coding portfolio! My name is Rory and I am
 
 [Violin plot - fasting blood sugar vs age, cholesterol](FBS_vs_Age_and_Cholesterol.md)
 
-[Raster plot - neuronal response to visual stimuli](Raster_plots.md)
+[Raster plot - single neuronal response to visual stimuli](Raster_plots.md)
 
-[Heat map - neuronal response to visual stimuli](Heat_map.md)
+[Heat map - multiple neuronal response to visual stimuli](Heat_map.md)
 
 ## Statistical Analysis:
 
