@@ -12,7 +12,7 @@ Hello, and welcome to my professional coding portfolio! My name is Rory and I am
 
 [Heat map - multiple neuronal response to visual stimuli](Heat_map.md)
 
-[Topographic map - N400 ERP response to sentence stimuli]()
+[Topographic map - N400 ERP response to sentence stimuli](Topographic_maps.md)
 
 ## Statistical Analysis:
 
