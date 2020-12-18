@@ -37,4 +37,4 @@ plt.show()
 
 ```
 
-Note: data courtesy of Dr. Nathan Crowder, Department of Psychology & Neuroscience, Dalhousie University.
+Note: code written in python; data courtesy of Dr. Nathan Crowder, Department of Psychology & Neuroscience, Dalhousie University.
